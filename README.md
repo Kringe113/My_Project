@@ -14,4 +14,4 @@ alert(s);
 | bacon | chocolate |
 | ice cream | dogs |
 
-![Penquins](http://www.penguins-world.com/emperor-penguin/)
+![Penquins](http://dfp3r41v9wmfi.cloudfront.net/wp-content/uploads/Emperor_penguins.jpg)
