@@ -8,8 +8,8 @@ alert(s);
 :camel:
 \*literal asterisks\*
 
-|What I like|
-|----|------|
-|susage|cheese|
-|bacon|chocolate|
-|ice cream|dogs|
+| What I like |
+| ------ | ------ |
+| susage | cheese |
+| bacon | chocolate |
+| ice cream | dogs |
