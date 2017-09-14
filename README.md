@@ -8,7 +8,7 @@ alert(s);
 :camel:
 \*literal asterisks\*
 
-| What I like |
+| What I like | What I don't like | 
 | ------ | ------ |
 | susage | cheese |
 | bacon | chocolate |
