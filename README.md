@@ -7,3 +7,4 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 :dog:
 :gun:
+\*literal asterisks\*
