@@ -13,3 +13,5 @@ alert(s);
 | susage | cheese |
 | bacon | chocolate |
 | ice cream | dogs |
+
+![Penquins](http://www.penguins-world.com/emperor-penguin/)
